@@ -4,5 +4,6 @@ public class test {
         System.out.println("dev分支操作");
         System.out.println("dev分支操作结束提交");
         System.out.println("主干操作结束提交");
+        System.out.println("提交到远程");
     }
 }
